@@ -1,0 +1,14 @@
+<Page loaded="pageLoaded">
+        <ActionBar title="My App" class="action-bar"></ActionBar>
+
+        <ContentView>
+            <Button text="Issue Request" tap="issueRequest"/>
+            <!--<Button text="Issue XHR Request" tap="issueXHR"/>-->
+        </ContentView>
+
+        <!--<ContentView>
+            <Label id="response" text="{{ response }}"/>
+        </ContentView>-->
+
+        
+</Page>
