@@ -1,4 +1,4 @@
-A sample project to showcase [Mimic](https://github.com/500tech/mimic) Running on react-native.
+A sample project to showcase [Mimic](https://github.com/500tech/mimic) Running on NativeScript
 
 License
 -------
